@@ -185,7 +185,7 @@ figure.effect-layla:hover figcaption::after, figure.effect-layla:hover h2, figur
 .single_sidebar .spost_nav li a{border-bottom:none; float:left}
 #footer{display:inline; float:left; width:100%; margin-bottom:20px}
 .footer_top{background-color:#252525; color:#ddd; display:inline; float:left; padding:10px 30px 48px; width:100%}
-.footer_widget{display:inline; float:left; width:100%; min-height:310px}
+.footer_widget{display:inline; float:left; width:100%; /*min-height:310px*/}
 .footer_widget > h2{border-bottom:3px solid #666; font-family:Oswald,arial,Georgia,serif; font-size:16px; padding:10px 0; text-transform:uppercase}
 .tag_nav{}
 .tag_nav li{}
